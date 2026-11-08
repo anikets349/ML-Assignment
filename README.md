@@ -17,6 +17,9 @@ The dataset consists of multiple numerical and categorical features describing t
 [Repository Link](https://github.com/anikets349/ML-Assignment.git)
 
 
+## Streamlit Deployment Link
+[Mobile Price Range Predictor](https://mobile-price-prediction-mla.streamlit.app/)
+
 ## Models used  
 | ML Model Name | Accuracy | AUC | Precision | Recall | F1 | MCC |
 | ------------- | ------ | ------ | ------ | ------ | ------ | ------ |
